@@ -1,2 +1,2 @@
 # Quizz
-Simple quizz in 
+Simple quizz in python 3
